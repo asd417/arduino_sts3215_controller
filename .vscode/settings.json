@@ -1,0 +1,5 @@
+{
+    "files.associations": { "*.ino": "cpp" },
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "[cpp]": { "editor.tabSize": 2, "editor.insertSpaces": true }
+}
